@@ -31,6 +31,6 @@ Abaixo, o resultado do ebook.
 [Clique aqui para ler](https://github.com/eafonseca/prompts-recipe-to-create-a-ebook/blob/main/Python%20e%20Magia-%20A%20Jornada%20do%20Iniciante%2C%20de%20Júlya%20Fonseca.pdf)
 
 
-## 👨‍💻 Feito por Júlya Fonseca Couto
+## 👩🏻‍💻 Feito por Júlya Fonseca Couto
 
 <a href="https://www.instagram.com/julyafonseca_yves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
